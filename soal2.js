@@ -42,3 +42,4 @@ productBin.data.forEach(product => {
     }
     });
 console.log(sumQuantity); // hasil = 157
+console.log("test");
