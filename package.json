@@ -1,0 +1,11 @@
+{
+  "name": "introduction-javascript",
+  "version": "1.0.0",
+  "description": "Belajar Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node soal1"
+  },
+  "author": "titan",
+  "license": "ISC"
+}
